@@ -1,0 +1,11 @@
+.className {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width:500px;
+  margin: 0 auto;
+  flex-wrap: wrap;
+}
+.a {
+  display: block;
+}
